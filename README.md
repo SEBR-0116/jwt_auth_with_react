@@ -11,9 +11,6 @@ In this lesson, we'll learn how to integrate authentication into our React clien
 ## Getting Started
 
 - `Fork` and `Clone`
-- `npm install` to install our back-end dependencies
-- `npm run dev` to spin up our Express server (it will be interacting with our database we set up in the [last lesson](https://github.com/SEI-R-6-21/u3_lesson_sequelize_auth))
-- `cd client` to move into our front-end
 - `npm install` to install our front-end dependencies
 - `npm start` to spin up our React app
 
