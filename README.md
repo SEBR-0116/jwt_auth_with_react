@@ -1,6 +1,6 @@
 ### SEIR 0911
 
-# React Authentication
+# React JWT Authentication
 
 ![](https://healthitsecurity.com/images/site/features/_normal/GettyImages-1206964126.jpg)
 
