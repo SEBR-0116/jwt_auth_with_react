@@ -1,4 +1,4 @@
-### SEIR 0911
+
 
 # React JWT Authentication
 
